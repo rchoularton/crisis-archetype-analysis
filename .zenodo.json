@@ -1,0 +1,35 @@
+{
+  "title": "crisis-archetype-analysis: Reproducibility package for Reimagining Food Crises",
+  "description": "Code to reproduce all analyses and figures in 'Reimagining Food Crises: Archetypes, Collapsing Recovery Gaps, Crisis Staircases, and Recovery Tendencies'. Starting from the Harmonized Food Insecurity Dataset (HFID v1.1.1), the pipeline detects 1,658 food security crisis episodes across 49 countries (2007-2024), classifies them into eight archetypes, computes monthly IPC phase transition matrices with bootstrap confidence intervals, and generates all publication figures.",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "publication_type": "softwaredocumentation",
+  "creators": [
+    {
+      "name": "Choularton, Richard",
+      "affiliation": "Lund University Centre for Sustainability Studies (LUCSUS)",
+      "orcid": "0000-0003-3275-2883"
+    }
+  ],
+  "keywords": [
+    "food security",
+    "IPC",
+    "crisis typology",
+    "food crisis archetypes",
+    "transition analysis",
+    "recovery asymmetry",
+    "HFID",
+    "reproducibility"
+  ],
+  "license": "MIT",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "10.5281/zenodo.14593822",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ],
+  "access_right": "open"
+}
