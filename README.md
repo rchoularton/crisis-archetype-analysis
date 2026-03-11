@@ -6,7 +6,7 @@
 
 **Journal:** Nature Food
 
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI_PLACEHOLDER.svg)](https://doi.org/ZENODO_DOI_PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18954539.svg)](https://doi.org/10.5281/zenodo.18954539)
 
 ---
 
@@ -214,7 +214,7 @@ If you use this code, please cite both the paper and this repository:
   author={Choularton, Richard},
   year={2026},
   url={https://github.com/rchoularton/crisis-archetype-analysis},
-  doi={ZENODO_DOI_PLACEHOLDER}
+  doi={10.5281/zenodo.18954539}
 }
 ```
 
