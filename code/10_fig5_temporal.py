@@ -88,7 +88,7 @@ def main():
     for path in [episodes_path, ev_path, tc_path]:
         if not os.path.exists(path):
             print(f"ERROR: Required input not found: {path}")
-            print("Run step 01 first.")
+            print("Run steps 01-02 first.")
             sys.exit(1)
 
     os.makedirs(FIG_DIR, exist_ok=True)
